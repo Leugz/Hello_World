@@ -1,5 +1,5 @@
 # Hello World
 
- Primeiro repositório versionado do curso Git GitHub
+ Primeiro repositório versionado do _curso Git GitHub_
 
- OIOIOIOIOIOIOIOIOIOIOIOIOIO
+ **OIOIOIOIOIOIOIOIOIOIOIOIOIO**
